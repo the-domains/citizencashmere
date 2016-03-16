@@ -1,7 +1,7 @@
 name: CitizenCashmere
 favicon: null
-layout_spectrum: 0.112985780229792
-typography_spectrum: 0.07617578841745853
+layout_spectrum: 0.50867
+typography_spectrum: 0.50778
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.4100004294887185
-  lightness: 0.11186447297222912
-  saturation: 0.9879534556530416
-  rhythmicContrast: 0.6891603849362582
+    - '#ffffff'
+    - '#001d70'
+    - '#98a8cf'
+    - '#414c8f'
+    - '#6677a1'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
