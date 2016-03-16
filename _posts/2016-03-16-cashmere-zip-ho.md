@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "\_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_ \_CASHMERE ZIP HOODIES"
-datePublished: '2016-03-16T18:39:51.000Z'
-dateModified: '2016-03-16T18:38:30.745Z'
+datePublished: '2016-03-16T18:43:06.650Z'
+dateModified: '2016-03-16T18:39:59.803Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-16-cashmere-zip-ho.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-16-cashmere-zip-ho.md
-published: true
 url: cashmere-zip-ho/index.html
 _type: Article
 
